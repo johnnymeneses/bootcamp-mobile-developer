@@ -1,6 +1,7 @@
 ## Santander Bootcamp Mobile
 
-<img src="https://hermes.digitalinnovation.one/tracks/87136efb-f048-4304-81c4-f21a7654920b.png" style="zoom:10%;" />
+<img src="https://hermes.digitalinnovation.one/tracks/87136efb-f048-4304-81c4-f21a7654920b.png" height="200" width="200" />
+
 
 
 
